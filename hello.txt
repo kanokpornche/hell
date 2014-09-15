@@ -1,1 +1,1 @@
-Hello Git
+Hello Git has test edit text.
